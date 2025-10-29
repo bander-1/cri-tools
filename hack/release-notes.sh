@@ -29,7 +29,7 @@ PREVIOUS_TAG=$(git tag | tail -2 | head -1)
 LATEST_TAG=$(git tag | tail -1)
 
 $BINARY \
-    --org kubernetes-sigs \
+    --org bander-1 \
     --repo cri-tools \
     --required-author "" \
     --branch master \
