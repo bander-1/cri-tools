@@ -1,6 +1,6 @@
 module sigs.k8s.io/cri-tools
 
-go 1.24.1
+go 1.24.9
 
 require (
 	github.com/distribution/reference v0.6.0
